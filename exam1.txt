@@ -1,0 +1,49 @@
+****ID8
+
+Question:
+8. What is the purpose or outcome of the following piece of code?
+sThree = sOne;
+sOne = sTwo;
+sTwo = sThree;
+(a) to arbitrarily shuffle the values of sOne, sTwo, and sThree
+(b) to ensure that sOne, sTwo, and sThree will all have the same value
+(c) to swap the values of sThree and sOne
+(d) to swap the values of sTwo and sOne
+(e) something else – please write the purpose
+
+Answer:
+Proposed answer
+(d) to swap the values of sTwo and sOne
+
+Marking Guide:
+Marking guide
+5 marks for answer (d); 2 marks for answer (c); 1 mark for answer (a) or (b); mark for answer (e)
+to be decided by marker, up to a maximum of 4
+
+
+
+****ID7
+
+Question:
+5. Consider the following block of C# code:
+if (num <= 0)
+Console.WriteLine('A');
+if (num > 3)
+Console.WriteLine('B');
+if (num % 2 == 0)
+Console.WriteLine('C');
+(The % operator finds the remainder after division. E.g.: 9 % 4 would return 1)
+Provide a value for num which would cause ‘C’ (and no other letter) to be printed.
+
+Answer:
+Sample answer
+B) 1
+     6
+     2
+
+Marking Guide:
+Marking guide
+1.5 mark for correct answer, zero otherwise.
+
+
+
